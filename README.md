@@ -29,7 +29,7 @@
 - I will continue to improve it and make it more practical by improving and adding both design and functionality.
  
  
-作成情報を列挙する
+# Author
  
 * Kai Tanobe
 * Hosei University
