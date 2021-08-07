@@ -61,10 +61,10 @@
 				B288175A267868DE005B860F /* PracticeForForcastAppWithAPIApp.swift */,
 				B288175C267868DE005B860F /* WeatherView.swift */,
 				B2881769267869FB005B860F /* WeatherService.swift */,
+				B288176B267871DF005B860F /* Weather.swift */,
 				B288176D267884E9005B860F /* WeatherViewModel.swift */,
 				B288175E267868E1005B860F /* Assets.xcassets */,
 				B2881763267868E1005B860F /* Info.plist */,
-				B288176B267871DF005B860F /* Weather.swift */,
 				B2881760267868E1005B860F /* Preview Content */,
 			);
 			path = PracticeForForcastAppWithAPI;
